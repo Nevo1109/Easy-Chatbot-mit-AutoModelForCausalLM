@@ -17,4 +17,4 @@ Das Modell generiert Antworten basierend auf dem bisherigen Gesprächsverlauf.
 
 ## Lizenz
 
-MIT (oder eine andere Lizenz deiner Wahl)
+MIT 
